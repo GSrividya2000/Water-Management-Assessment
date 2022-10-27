@@ -1,0 +1,14 @@
+C:\Users\sg69501\source\repos\WaterManagement\WaterManagement\bin\Debug\WaterManagement.exe.config
+C:\Users\sg69501\source\repos\WaterManagement\WaterManagement\bin\Debug\WaterManagement.exe
+C:\Users\sg69501\source\repos\WaterManagement\WaterManagement\bin\Debug\WaterManagement.pdb
+C:\Users\sg69501\source\repos\WaterManagement\WaterManagement\obj\Debug\WaterManagement.csproj.AssemblyReference.cache
+C:\Users\sg69501\source\repos\WaterManagement\WaterManagement\obj\Debug\WaterManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\sg69501\source\repos\WaterManagement\WaterManagement\obj\Debug\WaterManagement.csproj.CoreCompileInputs.cache
+C:\Users\sg69501\source\repos\WaterManagement\WaterManagement\obj\Debug\WaterManagement.exe
+C:\Users\sg69501\source\repos\WaterManagement\WaterManagement\obj\Debug\WaterManagement.pdb
+C:\Users\sg69501\source\repos\WaterManagement\geektrust\WaterManagement.exe.config
+C:\Users\sg69501\source\repos\WaterManagement\geektrust\WaterManagement.exe
+C:\Users\sg69501\source\repos\WaterManagement\geektrust\WaterManagement.pdb
+C:\Users\sg69501\source\repos\WaterManagement\bin\WaterManagement.exe.config
+C:\Users\sg69501\source\repos\WaterManagement\bin\WaterManagement.exe
+C:\Users\sg69501\source\repos\WaterManagement\bin\WaterManagement.pdb
